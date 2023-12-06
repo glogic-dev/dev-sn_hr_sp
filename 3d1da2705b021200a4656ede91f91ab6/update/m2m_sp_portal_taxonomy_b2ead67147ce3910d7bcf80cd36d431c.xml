@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_taxonomy">
+    <m2m_sp_portal_taxonomy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <order>100</order>
+        <sp_portal display_value="Employee Center">70cd9f3b734b13001fdae9c54cf6a72f</sp_portal>
+        <sys_class_name>m2m_sp_portal_taxonomy</sys_class_name>
+        <sys_created_by>A765770</sys_created_by>
+        <sys_created_on>2023-10-23 16:08:20</sys_created_on>
+        <sys_id>b2ead67147ce3910d7bcf80cd36d431c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Employee Center.WL Employee</sys_name>
+        <sys_package display_value="Employee Center Core" source="sn_hr_sp">3d1da2705b021200a4656ede91f91ab6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</sys_scope>
+        <sys_update_name>m2m_sp_portal_taxonomy_b2ead67147ce3910d7bcf80cd36d431c</sys_update_name>
+        <sys_updated_by>A765770</sys_updated_by>
+        <sys_updated_on>2023-10-23 16:08:20</sys_updated_on>
+        <taxonomy display_value="WL Employee">6bd6de79478e3910d7bcf80cd36d4325</taxonomy>
+    </m2m_sp_portal_taxonomy>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</claim_owner_scope>
+        <claim_timestamp>18c3ee0cdee0000001</claim_timestamp>
+        <metadata_update_name>m2m_sp_portal_taxonomy_b2ead67147ce3910d7bcf80cd36d431c</metadata_update_name>
+        <previous_claim_app_version>30.0.2</previous_claim_app_version>
+        <previous_claim_name>Employee Center Core</previous_claim_name>
+        <previous_claim_scope>3d1da2705b021200a4656ede91f91ab6</previous_claim_scope>
+        <sys_created_by>A765770</sys_created_by>
+        <sys_created_on>2023-12-06 11:26:09</sys_created_on>
+        <sys_id>1240c80c474ff510d7bcf80cd36d433c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>A765770</sys_updated_by>
+        <sys_updated_on>2023-12-06 11:26:09</sys_updated_on>
+    </sys_claim>
+</record_update>
